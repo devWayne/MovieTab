@@ -1,0 +1,20 @@
+{
+  "name": "MovieTab.rc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jsx":"jsx --harmony src/ dist/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devWayne/MovieTab.rc.git"
+  },
+  "author": "VI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devWayne/MovieTab.rc/issues"
+  },
+  "homepage": "https://github.com/devWayne/MovieTab.rc"
+}
